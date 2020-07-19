@@ -1,10 +1,14 @@
 # Python 
 ![](https://github.com/KuldeepSingh0/Snake-game/blob/master/img/img1.png)
+<p align="center">
 ![](https://github.com/KuldeepSingh0/Snake-game/blob/master/img/py-logo.gif?raw=true)
+</p>
+
 # pygame
-
+ 
+ <p align="center">
 ![](https://www.pygame.org/images/logo_lofi.png)
-
+</p>
 python3 -m pip install -U pygame --user
 
 
