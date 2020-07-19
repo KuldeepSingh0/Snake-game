@@ -1,6 +1,6 @@
 # Python 
 
-#pygame
+# pygame
 
 
 # Snake-game
