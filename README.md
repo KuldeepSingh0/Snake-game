@@ -2,7 +2,7 @@
 
 # pygame
 
-[]!(https://www.pygame.org/images/logo_lofi.png)
+![](https://www.pygame.org/images/logo_lofi.png)
 
 python3 -m pip install -U pygame --user
 
