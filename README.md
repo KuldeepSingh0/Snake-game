@@ -6,6 +6,7 @@
 
 python3 -m pip install -U pygame --user
 
+![](https://github.com/KuldeepSingh0/Snake-game/blob/master/img/img.png?raw=true)
 
 # Snake-game
 
