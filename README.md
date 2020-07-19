@@ -24,7 +24,7 @@ python3 -m pip install -U pygame --user
 <p align="center">
  <img src="https://github.com/KuldeepSingh0/Snake-game/blob/master/img/Snake-Game.gif?raw=true" alt="snakegame"
       </p>
- # Windows Terminal
+ # Windows-Terminal
  <p align="center">
  <img src="https://github.com/KuldeepSingh0/Snake-game/blob/master/img/terminal.gif?raw=true" alt="windowsterminal">
   </p>
