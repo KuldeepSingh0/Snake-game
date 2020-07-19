@@ -1,5 +1,5 @@
 # Python 
-
+![](https://github.com/KuldeepSingh0/Snake-game/blob/master/img/img1.png)
 # pygame
 
 ![](https://www.pygame.org/images/logo_lofi.png)
